@@ -55,7 +55,6 @@ Solteira - Certidão de nascimento`,
 export type InactiveStandard = {
   pis: string
   posse: string
-  escolaridade: string
 }
 
 export type ActivesStandardType = {
