@@ -162,11 +162,6 @@ const inactiveDocuments: InactivesInt = {
     required: true,
     present: false,
   },
-  posse: {
-    name: "Portaria de Posse (cargo efetivo)",
-    required: true,
-    present: false,
-  },
   depId: {
     name: "Dependentes",
     required: false,
@@ -256,12 +251,6 @@ const inactiveDocuments: InactivesInt = {
         value: "dep/n",
       },
     ],
-  },
-  portariaConcessao: {
-    name: "Portaria de Concessão de Benefício",
-    required: false,
-    present: false,
-    optionList: undefined,
   },
 }
 

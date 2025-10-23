@@ -108,12 +108,6 @@ export interface PensionerDocs {
     present: boolean
     optionList?: NestedOption[]
   }
-  portariaConcessao: {
-    name: string
-    required: boolean
-    present: boolean
-    optionList?: NestedOption[]
-  }
   tituloEleitor: {
     name: string
     required: boolean
@@ -165,19 +159,7 @@ export interface InactivesInt {
     present: boolean
     optionList?: NestedOption[]
   }
-  portariaConcessao: {
-    name: string
-    required: boolean
-    present: boolean
-    optionList?: NestedOption[]
-  }
   tituloEleitor: {
-    name: string
-    required: boolean
-    present: boolean
-    optionList?: NestedOption[]
-  }
-  posse: {
     name: string
     required: boolean
     present: boolean

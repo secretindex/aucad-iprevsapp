@@ -13,10 +13,8 @@ export const inactivesDefault: InactivesDocuments = {
   residencia: "cr/n",
   estadoCivil: "cns/n",
   pis: false,
-  posse: false,
   tituloEleitor: false,
   beneficioPrevidenciario: false,
-  portariaConcessao: false,
   depId: "dep/n",
 }
 
