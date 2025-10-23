@@ -171,12 +171,6 @@ const pensionerObj: PensionerDocs = {
     required: true,
     present: false,
   },
-  portariaConcessao: {
-    name: "Portaria de Concessão de Benefício de Pensão",
-    required: false,
-    present: false,
-    optionList: undefined,
-  },
 }
 
 
