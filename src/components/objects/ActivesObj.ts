@@ -226,11 +226,6 @@ const activesDocument: ActivesDocs = {
     required: true,
     present: false,
   },
-  escolaridade: {
-    name: "Comprovante de Escolaridade",
-    required: true,
-    present: false,
-  },
   depId: {
     name: "Dependentes",
     required: false,

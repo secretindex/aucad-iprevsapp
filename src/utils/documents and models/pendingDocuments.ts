@@ -66,7 +66,6 @@ export type ActivesStandardType = {
   ctps: string
   beneficioPrevidenciario: string
   tituloEleitor: string
-  escolaridade: string
   reservista: string
   uniao: string
 }
@@ -80,7 +79,6 @@ const activesStandard: ActivesStandardType = {
   posse: "Documento de Portaria de Posse",
   beneficioPrevidenciario: "Declaração de Benefício Previdenciário emitida a partir do site meuinss.gov.br",
   reservista: "Certificado de Alistamento Militar ou Reservista, para servidores do sexo masculino, com idade entre 18 e 45 anos",
-  escolaridade: "Documento comprovando escolaridade declarada",
   uniao:
     "Certidão de União Estável",
 }

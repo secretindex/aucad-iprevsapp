@@ -259,12 +259,6 @@ export interface ActivesDocs {
     present: boolean
     optionList?: NestedOption[]
   }
-  escolaridade: {
-    name: string
-    required: boolean
-    present: boolean
-    optionList?: NestedOption[]
-  }
   depId: {
     name: string
     required: boolean
